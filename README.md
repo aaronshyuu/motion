@@ -7,10 +7,21 @@ This program allows the user to draw in a panel. When the mouse enters the panel
 <img src="/Demo/Drawing.gif" width="500" height="500"/>
 
 ## Application
-Mouse-Listener<br/>  
-Mouse-Motion-Listener interfaces<br/>  
-JPanel<br/>  
+Mouse-Listener interface<br/>
+Mouse-Motion-Listener interfaces<br/> 
+JPanel<br/>
 Graphics
 
 
 ## Bouncing Ball
+This program presents an animation that displays a bouncing ball in a panel. The animation essentially paints and repaints the same scene, giving the illusion of a moving object. The animation will stop when the mouse is stopped (left click) and resumes when the mouse is released. Pressing the tab arrow key increases the animation speed while pressing the shift arrow key decreases the animation speed. Moreover, pressing the up, down, left and right arrow keys during the ball's movement will change the ball direction to only move in one direction. Pressing the control key advances the ball in a 2-D plane (ie. 45 degree angle) 
+
+## Demo
+<img src="/Demo/Bouncing_Ball.gif" width="500" height="500"/>
+
+## Application
+Timer class<br/>
+Action Listeners<br/>
+Key Listener<br/> 
+JPanel<br/>
+Graphics
