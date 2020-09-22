@@ -8,7 +8,7 @@ MouseListener and MouseMotionListener interfaces<br />
 Graphics
 
 ### Demo
-<img src="/Demo/Drawing.gif" width="250" height="250"/>
+<img src="/Demo/Drawing.gif" width="500" height="500"/>
 
 
 ## Bouncing Ball
