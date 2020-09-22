@@ -4,7 +4,7 @@
 This program allows the user to draw in a panel. When the mouse enters the panel, the panel turns white. The mouse will draw red circle outlines of length 50 pixels when it is dragged inside the window. A mouse click draws a yellow rectangle outline of size 100 pixels. While the mouse is clicked down and dragged, black rectangle outlines of size 50 pixels will continuously be drawn. When the mouse is detected outside of the window, the window is filled with cyan and reset. 
 
 ### Knowledge Application
-Mouse Listener and Mouse Motion Listener interfaces<br />  
+Mouse-Listener and Mouse-Motion-Listener interfaces<br />  
 Graphics
 
 ### Demo
