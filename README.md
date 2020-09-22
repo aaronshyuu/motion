@@ -7,9 +7,9 @@ This program allows the user to draw in a panel. When the mouse enters the panel
 <img src="/Demo/Drawing.gif" width="500" height="500"/>
 
 ### Application
-Mouse-Listener<br />  
-Mouse-Motion-Listener interfaces<br />
-JPanel<br />  
+Mouse-Listener<br/>  
+Mouse-Motion-Listener interfaces<br/>  
+JPanel<br/>  
 Graphics
 
 
